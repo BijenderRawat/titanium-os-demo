@@ -1,2 +1,2 @@
 # titanium-os-demo
-for deo purpose only
+for demo purpose only
